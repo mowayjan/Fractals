@@ -5,4 +5,5 @@ I find this very inspiring to people who are starting to learn programming.
 
 The programs are:
 
-1. 
+1. Sierpinski triangle
+2. 
